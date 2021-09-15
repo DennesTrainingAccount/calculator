@@ -5,6 +5,9 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/dennesqa/dennesqa/_apis/build/status/DennesTrainingAccount.calculator?branchName=master)](https://dev.azure.com/dennesqa/dennesqa/_build/latest?definitionId=13&branchName=master)
 
+[(https://dev.azure.com/dennesqa/dennesqa/_apis/build/definitions/DennesTrainingAccount.calculator?branchName=master)]
+(https://dev.azure.com/dennesqa/dennesqa/_build/latest?definitionId=13&branchName=master)
+
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
